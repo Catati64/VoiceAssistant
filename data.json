@@ -1,0 +1,129 @@
+{
+  "estudiantes": [
+    {
+      "name": "Emilio Alejandro Puente Villafuerte",
+      "birthday": "21/07/2002",
+      "age": 21
+    },
+    {
+      "name": "Elian Alejandro Galindo Valencia",
+      "birthday": "01/06/2002",
+      "age": 21
+    },
+    {
+      "name": "Naomi Paola Cardona Perez",
+      "birthday": "20/09/2002",
+      "age": 20
+    },
+    {
+      "name": "Israel Rodriguez Buzo",
+      "birthday": "06/02/2001",
+      "age": 22
+    },
+    {
+      "name": "José Emmanuel Rangel Rodríguez",
+      "birthday": "18/10/2001",
+      "age": 21
+    },
+    {
+      "name": "Mario Isaac Fonseca Martínez",
+      "birthday": "31/12/2002",
+      "age": 20
+    },
+    {
+      "name": "Juan Alejandro Ramírez García",
+      "birthday": "02/08/1999",
+      "age": 24
+    },
+    {
+      "name": "Eduardo Caudillo González",
+      "birthday": "15/06/2001",
+      "age": 22
+    },
+    {
+      "name": "Jair Armando Castillo Parra",
+      "birthday": "18/07/2002",
+      "age": 21
+    },
+    {
+      "name": "Nohemi Guadalupe Miranda Hernández",
+      "birthday": "06/11/2001",
+      "age": 21
+    },
+    {
+      "name": "Luis Daniel Armenta León",
+      "birthday": "21/10/2000",
+      "age": 22
+    },
+    {
+      "name": "Ximena Sarahí Medel Gallardo",
+      "birthday": "06/06/2002",
+      "age": 21
+    },
+    {
+      "name": "Santiago Abraham Camacho Hernandez",
+      "birthday": "18/05/2000",
+      "age": 23
+    },
+    {
+      "name": "Angel Julian Rangel Serratos",
+      "birthday": "26/02/2002",
+      "age": 21
+    },
+    {
+      "name": "Gerardo Valentino Rosales Ramos",
+      "birthday": "21/09/2002",
+      "age": 20
+    },
+    {
+      "name": "Kevin Omar Arredondo Arenas",
+      "birthday": "21/09/2002",
+      "age": 20
+    },
+    {
+      "name": "Mariana Esmeralda Centeno Reyes",
+      "birthday": "07/02/2002",
+      "age": 21
+    },
+    {
+      "name": "Akari Guadalupe Almanza Acosta",
+      "birthday": "01/09/1999",
+      "age": 24
+    },
+    {
+      "name": "Bladimir Fernando Hernandez Jaramillo",
+      "birthday": "24/05/2002",
+      "age": 21
+    },
+    {
+      "name": "Raul Eduardo Ortega Zavala",
+      "birthday": "15/08/2001",
+      "age": 22
+    },
+    {
+      "name": "Enrique Rodríguez Villagomez",
+      "birthday": "09/10/2001",
+      "age": 21
+    },
+    {
+      "name": "Orlando Javier Flores Mejía",
+      "birthday": "11/08/2002",
+      "age": 21
+    },
+    {
+      "name": "Andres Ismael Romo Lucio",
+      "birthday": "14/12/1999",
+      "age": 23
+    },
+    {
+      "name": "Oscar Octavio Rodriguez Villegas",
+      "birthday": "22/04/2004",
+      "age": 19
+    },
+    {
+      "name": "Jesus Demetrio Ramos Ayala",
+      "birthday": "21/12/2002",
+      "age": 20
+    }
+  ]}
+  
